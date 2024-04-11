@@ -1,15 +1,48 @@
 .heading,
 .font {
     font-weight: Bold;
-    background-color: hsl(201, 72%, 72%);
+    background-color: hsl(63, 92%, 64%);
     text-align: center;
     font-family: "Courier New", Courier, monospace sans-serif;
+    margin: 5px auto;
+    padding: 5px;
+    border: 3px solid black;
+    
 }
 
 .heading {
     font-size: 28px;
+    margin-top: 0px auto;
+    display:block;
+    padding: 10px;
+    
+    
 }
 
 .font {
     font-size: 20px;
+}
+
+.button-container {
+    margin:5px;
+    padding:10px;
+    border:2px;
+    margin-bottom: 2 solid line;
+
+}
+
+button {
+    background-color: hsl(63, 92%, 64%);
+    margin-top: 20px;
+    margin-right: 8px;
+    padding: 5px;
+    border: 3px dotted black;
+    display: inline-block;
+    height: 30px;
+    width: auto;
+}
+
+.whole {
+    background-color: solid black;
+    color: black;
 }
