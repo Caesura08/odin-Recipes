@@ -2,7 +2,7 @@
     font-family: "Brush Script MT", "Lucida Handwriting";
     font-size: 32px;
     text-align: center;
-    background-color: rgb(255, 87, 230);
+    background-color: rgb(199, 138, 255);
     margin-bottom: 5px;
     padding:2px;
     border:2px solid black;
@@ -15,10 +15,21 @@
     font-weight: bold;
     text-align: center;
     font-family: "Brush Script MT", "Lucida Handwriting";
+    margin: 2px;
+    border:2px solid black;
 }  
 
 .fix {
-    margin: 20px 40px;
+    margin: 0px;
     padding: 20px;
-    border: 2px dashed rgb(199, 138, 255);
+    background-color: rgb(249, 138, 255);
+    border: 2px solid black;
+    margin-left: 2px;
+}
+
+#list {
+    margin:2px;
+    background-color: rgb(249,138,255);
+    padding: 20px 50px;
+    border: 2px solid black;
 }
