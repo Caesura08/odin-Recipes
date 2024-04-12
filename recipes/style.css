@@ -2,16 +2,16 @@
     font-family: "Brush Script MT", "Lucida Handwriting";
     font-size: 32px;
     text-align: center;
-    background-color: rgb(199, 138, 255);
+    background-color: rgb(202, 110, 246);
     margin-bottom: 5px;
     padding:2px;
     border:2px solid black;
 }
 
-.heading .small.header,
+.small.header,
 #serving {
     font-size: 28px;
-    background-color: rgb(199, 138, 255);
+    background-color: rgb(202, 110, 246);
     font-weight: bold;
     text-align: center;
     font-family: "Brush Script MT", "Lucida Handwriting";
@@ -32,4 +32,65 @@
     background-color: rgb(249,138,255);
     padding: 20px 50px;
     border: 2px solid black;
+    font-size: 16px;
+}
+
+.heading {
+    font-family: "Brush Script MT", "Lucida Handwriting";
+    font-size: 32px;
+    text-align: center;
+    background-color: rgb(138, 255, 150);
+    margin-bottom: 5px;
+    padding:2px;
+    border:2px solid black;
+
+}
+
+#smaller {
+    font-size: 28px;
+    background-color: rgb(138, 255, 150);
+    font-weight: bold;
+    text-align: center;
+    font-family: "Brush Script MT", "Lucida Handwriting";
+    margin: 2px;
+    margin-top: 0px;
+    border:2px solid black;
+}  
+
+.cha {
+    margin:2px;
+    margin-top: 1px;
+    background-color: rgb(138, 226, 255);
+    padding: 20px 50px;
+    border: 2px solid black;
+    font-size: 16px;
+}
+
+.head {
+    font-family: "Brush Script MT", "Lucida Handwriting";
+    font-size: 32px;
+    text-align: center;
+    background-color: rgb(246, 110, 110);
+    margin: 2px;
+    padding:2px;
+    border:2px solid black;
+}
+
+.look {
+    margin:2px;
+    margin-top: 1px;
+    background-color: rgb(246, 240, 121);
+    padding: 20px 50px;
+    border: 2px solid black;
+    font-size: 16px;
+}
+
+.bigger {
+    font-family: "Brush Script MT", "Lucida Handwriting";
+    font-size: 32px;
+    text-align: center;
+    background-color: rgb(246, 110, 110);
+    margin-bottom: 2px;
+    padding:2px;
+    border:2px solid black;
 }
